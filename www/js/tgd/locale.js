@@ -474,7 +474,7 @@ tgd.locale = {
         whats_new_title: "Tower Ghost for Destiny Noticias"
     },
     fr: {
-        agility: "Agilité",
+        agility: "Agility",
         armor: "Armor",
         best_combo: "Best Combo",
         cancel: "Cancel",
